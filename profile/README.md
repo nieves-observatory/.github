@@ -5,6 +5,7 @@
 > An web-based observation planner for the Nieves Observatory
 
 Find astronomical targets easily to maximise available telescope time for imaging and research.
+
 Try it out: https://observarium.app/
 
 ## Description
@@ -15,7 +16,8 @@ This project is part of the upcoming "GROWTH (Global Relay of Watching Transient
 
 ### Nieves Observatory
 
-The Nieves Observatory is based in California and was built in 2019 housing a 0.3m CDK optical telescope. The telescope is equipped with a research-grade FLI camera and a filter wheel with both broad-band (Sloan) and narrow-band filters. The observatory is owned by the Soka University of America, funded by the Nieves Family Foundation.
+The Nieves Observatory is based in California and was built in 2019 housing a 0.3m CDK optical telescope. The telescope is equipped with a research-grade FLI camera and a filter wheel with both broad-band (Sloan) and narrow-band filters. The observatory is owned by the Soka University of America, funded by the Nieves Family Foundation.\
+<br>
 
   <img align="left" src="https://i.ibb.co/jLZzBq0/lcro-md.jpg" alt="LCRO">
 
