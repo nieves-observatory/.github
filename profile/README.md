@@ -2,9 +2,10 @@
 
 # Observarium
 
-> An observation planner for the Nieves Observatory
+> An web-based observation planner for the Nieves Observatory
 
-Find astronomical targets easily to maximise available telescope time for imaging and research. Observarium is a web application designed for the Nieves Observatory for astronomical research and education.
+Find astronomical targets easily to maximise available telescope time for imaging and research.
+Try it out: https://observarium.app/
 
 ## Description
 
@@ -16,7 +17,7 @@ This project is part of the upcoming "GROWTH (Global Relay of Watching Transient
 
 The Nieves Observatory is based in California and was built in 2019 housing a 0.3m CDK optical telescope. The telescope is equipped with a research-grade FLI camera and a filter wheel with both broad-band (Sloan) and narrow-band filters. The observatory is owned by the Soka University of America, funded by the Nieves Family Foundation.
 
-<img align="left" src="https://i.ibb.co/jLZzBq0/lcro-md.jpg" alt="LCRO">
+  <img align="left" src="https://i.ibb.co/jLZzBq0/lcro-md.jpg" alt="LCRO">
 
 ### Las Campanas Remote Observatory (LCRO)
 
@@ -29,4 +30,4 @@ The app is part of a larger pipeline that includes:
 1. Reducing and manipulating the images from the observatories
 1. Obtaining and analysing research results from the images
 
-The Nieves Observer comes in in Step 2 to help educators and students select valuable targets, which reduces time wastage on the telescopes.
+Observarium comes in in Step 2 to help educators and students select valuable targets, which reduces time wastage on the telescopes.
