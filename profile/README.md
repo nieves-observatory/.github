@@ -25,6 +25,8 @@ The Nieves Observatory is based in California and was built in 2019 housing a 0.
 
 The LCRO sits on top the mountains of Chile's Atacama Desert, housing an almost-identical 0.3m CDK optical telescope. The LCRO is a joint project of the LCO, Astro Physics Corporation, Finger Lakes Instruments, Mike Long, Dave Jurasevich, and SSC Observatories.
 
+<br><br>
+
 The app is part of a larger pipeline that includes:
 
 1. Getting access to telescopes
