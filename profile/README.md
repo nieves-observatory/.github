@@ -2,7 +2,7 @@
 
 # Observarium
 
-> An web-based observation planner for the Nieves Observatory
+> A web-based observation planner for the Nieves Observatory
 
 Find astronomical targets easily to maximise available telescope time for imaging and research.
 
